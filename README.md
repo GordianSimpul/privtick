@@ -23,7 +23,7 @@ Options are:
 -a4        ...
 ```
 
-You can also edit the shell script to input your api keys. API keys can't be gotten here: https://developers.coinranking.com/create-account
+You can also edit the shell script to input your api keys. API keys can be gotten here: https://developers.coinranking.com/create-account
 
 ### Screenshot
 
